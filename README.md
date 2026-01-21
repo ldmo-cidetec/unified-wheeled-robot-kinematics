@@ -122,7 +122,7 @@ Use existing robots as references:
 
 All simulations use **explicit Euler integration**:
 
-$q_{k+1}$ = $q_k+\dot{q}_k\,\Delta t$
+$q_{k+1}$ = $q_k+\dot{q}_k \Delta t$
 
 This choice is intentional:
 - Simple and transparent

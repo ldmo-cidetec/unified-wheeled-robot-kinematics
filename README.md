@@ -3,7 +3,9 @@
 This repository provides a lightweight and self-contained **Python library for the kinematic modeling and simulation of wheeled mobile robots** using a unified Jacobian-based formulation.  
 The implementation corresponds to and supports the results presented in the paper:
 
-**“Generalized Kinematic Modeling of Wheeled Mobile Robots: A Unified Framework for Heterogeneous Architectures.”**
+> **[Pantoja-García, J. S., Rodríguez-Molina, A., Villarreal-Cervantes, M. G., Palma-Huerta, A. A., Aldape-Pérez, M., & Sandoval-Gutiérrez, J. (2026).](https://doi.org/10.3390/math14030415)**  
+> *[Generalized Kinematic Modeling of Wheeled Mobile Robots: A Unified Framework for Heterogeneous Architectures.](https://doi.org/10.3390/math14030415)*  
+> **[Mathematics, 14(3), 415.](https://doi.org/10.3390/math14030415)**
 
 The code focuses on:
 - Forward (direct) and inverse kinematics
@@ -15,6 +17,38 @@ The library is intended for:
 - Research prototyping
 - Teaching mobile robotics and kinematics
 - Reproducible simulation examples
+
+---
+
+## Citation
+
+### APA
+```text
+Pantoja-García, J. S., Rodríguez-Molina, A., Villarreal-Cervantes, M. G.,
+Palma-Huerta, A. A., Aldape-Pérez, M., & Sandoval-Gutiérrez, J. (2026).
+Generalized kinematic modeling of wheeled mobile robots: A unified framework
+for heterogeneous architectures. Mathematics, 14(3), 415.
+https://doi.org/10.3390/math14030415
+```
+
+
+### BibTeX
+```bibtex
+@Article{math14030415,
+  AUTHOR = {Pantoja-García, Jesús Said and Rodríguez-Molina, Alejandro and
+            Villarreal-Cervantes, Miguel Gabriel and Palma-Huerta, Andrés Abraham
+            and Aldape-Pérez, Mario and Sandoval-Gutiérrez, Jacobo},
+  TITLE = {Generalized Kinematic Modeling of Wheeled Mobile Robots:
+           A Unified Framework for Heterogeneous Architectures},
+  JOURNAL = {Mathematics},
+  VOLUME = {14},
+  NUMBER = {3},
+  YEAR = {2026},
+  ARTICLE-NUMBER = {415},
+  DOI = {10.3390/math14030415},
+  URL = {https://www.mdpi.com/2227-7390/14/3/415}
+}
+```
 
 ---
 
